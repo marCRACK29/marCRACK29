@@ -5,8 +5,6 @@
 <br/>
 <br/>
 
-<h2 align="center">☕ Statistics</h2>
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=StaCKm29&theme=react-dark)
 
 <p align="center">
