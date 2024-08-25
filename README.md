@@ -1,6 +1,6 @@
-<h2 align="center">👋 Holaaa</h2>
+<h2>👋 Holaaa</h2>
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCreed777&theme=radical' width='20%'>  
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=StaCKm29&theme=radical' width='20%'>  
 
 <br/>
 <br/>
