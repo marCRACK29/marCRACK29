@@ -2,10 +2,6 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCreed777&theme=radical' width='20%'>  
 
-* 😊 `My name is`: **Marcos**,
-* 🥸`I'm`: **21 years old**,
-* 👾 `I’m currently learning`: **Python y C**,
-
 <br/>
 <br/>
 
