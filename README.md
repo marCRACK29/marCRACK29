@@ -25,6 +25,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,clion,pycharm,bash,linux,fedora&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,clion,pycharm,bash,linux&perline=12" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
+
   </a>
 </p>
