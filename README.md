@@ -1,15 +1,36 @@
-### Hi There 👋!
-<!--
-**StaCKm29/StaCKm29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Holaaa</h2>
 
-Here are some ideas to get you started:
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCreed777&theme=radical' width='20%'>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 😊 `My name is`: **Marcos**,
+* 🥸`I'm`: **21 years old**,
+* 👾 `I’m currently learning`: **Python y C**,
+
+<br/>
+<br/>
+
+<h2 align="center">☕ Statistics</h2>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=StaCKm29&theme=react-dark)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=StaCKm29&theme=tokyonight"/>
+</p>
+
+<h2 align="center">⚡ My Skills</h2>
+
+<h4 align="center">💻 Programming languages</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,py&perline=12" />
+  </a>
+</p>
+
+<h4 align="center">⚙ Software</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,idea,clion,pycharm,bash,linux&perline=12" />
+  </a>
+</p>
