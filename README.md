@@ -1,10 +1,14 @@
-<h2>👋 Holaaa</h2>
+<h2>Holaaa!👋</h2>
 
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=StaCKm29&theme=radical' width='20%'>  
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=StaCKm29&theme=radical' width='20%'>  
+
+* 🥸 `I'm`: **Estudiante Ingeniería Civil Informática**,
+* 👾 `I’m currently learning`: **Python y C**,
 
 <br/>
 <br/>
 
+<h2 align="center">☕ Statistics</h2>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=StaCKm29&theme=react-dark)
 
 <p align="center">
