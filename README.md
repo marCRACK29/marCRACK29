@@ -2,8 +2,8 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=StaCKm29&theme=radical' width='20%'>  
 
-* 🥸 `I'm`: **Estudiante Ingeniería Civil Informática**,
-* 👾 `I’m currently learning`: **Python y C**,
+* 🥸 `I'm`: **Estudiante Ingeniería Civil Informática**
+* 👾 `I’m currently learning`: **Python, C, Matlab**
 
 <br/>
 <br/>
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,matlab&perline=12" />
   </a>
 </p>
 
