@@ -2,8 +2,8 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=StaCKm29&theme=radical' width='20%'>  
 
-* 🥸 `I'm`: **Estudiante Ingeniería Civil Informática**
-* 👾 `I’m currently learning`: **Python, C, Matlab**
+* 🤓 `I'm`: **Estudiante Ingeniería Civil Informática**
+* 👾 `I’m currently learning`: **C++ y Matlab**
 
 <br/>
 <br/>
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,matlab&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,c++,java,py,matlab&perline=12" />
   </a>
 </p>
 
@@ -34,7 +34,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,idea,clion,pycharm,bash,linux&perline=12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
 
   </a>
 </p>
