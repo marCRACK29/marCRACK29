@@ -6,8 +6,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h2 align="center">☕ Statistics</h2>
 
