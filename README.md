@@ -1,6 +1,6 @@
 <h2>Holaaa!👋</h2>
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=StaCKm29&theme=radical' width='20%'>  
+\<!-- <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=StaCKm29&theme=radical' width='20%'>  \-->
 
 * 🤓 `I'm`: **Estudiante Ingeniería Civil Informática**
 * 👾 `I’m currently learning`: **C++ y Matlab**
